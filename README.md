@@ -1,11 +1,10 @@
-# Conta-Banco
 
-package Aaula;
+//uma classe em java com alguns atributos e métodos;
 
-//Uma classe em java com alguns metodos e atributos 
-
-public class ContaBanco {
+    package Aaula;
     
+    public class ContaBanco {
+
     public int numConta;
     protected String tipo;
     private String Dono;
